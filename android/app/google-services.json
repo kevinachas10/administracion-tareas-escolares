@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086425622185",
+    "project_id": "appabril-efe6b",
+    "storage_bucket": "appabril-efe6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086425622185:android:8ea6f2ba2f077ebbb36bb8",
+        "android_client_info": {
+          "package_name": "com.example.app_abril"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCODNj2pzrbu7QHZCLkvIPqrrWZd_pShVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
